@@ -4,3 +4,8 @@ Belajar menambahkan file dalam repository
 Tujuan Pembelajaran :
 - Peserta dapat mengenal konsep code repository dan menggunakan Git dalam project
 - Peserta dapat mengetahui syntax bahasa pemrograman dart
+
+Materi :
+1. Mengenal repository Github / Gitlab (pilih salah satu atau boleh keduanya)
+2. Dasar-dasar bahasa pemrograman Dart
+
