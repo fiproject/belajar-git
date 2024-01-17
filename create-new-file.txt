@@ -1,1 +1,6 @@
 Belajar menambahkan file dalam repository
+## Level 1 ##
+
+Tujuan Pembelajaran :
+- Peserta dapat mengenal konsep code repository dan menggunakan Git dalam project
+- Peserta dapat mengetahui syntax bahasa pemrograman dart
