@@ -1,4 +1,3 @@
-Belajar menambahkan file dalam repository
 ## Level 1 ##
 
 Tujuan Pembelajaran :
