@@ -4,5 +4,5 @@ Praktikum membuat :
 2. Melakukan commit
 3. Push
 4. Pull
-5. Conflict resolve
-
+5. Merge
+6. Conflict resolve
