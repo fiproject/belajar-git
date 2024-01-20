@@ -5,3 +5,4 @@ Praktikum membuat :
 3. Push
 4. Pull
 5. Merge
+6. Conflict resolve
