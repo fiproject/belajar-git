@@ -3,3 +3,5 @@ Praktikum membuat :
 1. Branch
 2. Melakukan commit
 3. Push
+4. Pull
+5. Merge
